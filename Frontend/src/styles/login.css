@@ -1,0 +1,33 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Grandiflora+One&display=swap');
+
+
+.Textfield {
+    margin: 0 auto;
+    justify-content: center;
+    align-content: center;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.err h5 {
+    color:red;
+    font-size: smaller;
+}
+
+.fontSigin {
+ color: #000000;
+ font-family: 'Grandiflora One', serif;
+}
+
+.styles{
+    backdrop-filter: blur(5.5px);
+    -webkit-backdrop-filter: blur(5.5px);
+    background: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.01);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.01) ;
+
+    align-Content: center ;
+    justify-Items: center; 
+}
